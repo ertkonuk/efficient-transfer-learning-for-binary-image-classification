@@ -1,0 +1,6 @@
+*.jpg
+*.png
+*.bin
+*.pt
+*.pyc
+.vscode/
